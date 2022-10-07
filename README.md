@@ -1,2 +1,2 @@
-# hello-world
-My AED repository
+# Weighted scores
+Assignment 3
